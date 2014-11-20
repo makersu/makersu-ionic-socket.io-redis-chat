@@ -6,7 +6,7 @@ var redis = require('redis');
 // var config = require('./libs/config');
 var moment = require('moment');
 
-var PORT = 8080;
+var PORT = 6378;
 var REDIS_PORT = 6379;
 var REDIS_HOST = 'localhost';
 
