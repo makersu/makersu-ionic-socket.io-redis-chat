@@ -1,4 +1,4 @@
-var baseUrl = 'http://localhost:8080/';
+var baseUrl = 'http://54.92.67.230:6378/';
 
 angular.module('services', [])
 
