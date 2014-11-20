@@ -99,3 +99,16 @@ The idea is, you have a sorted set with a key. Then you add a score with a JSON 
 I'm available to chat and give insight to this application.
 
 Find me on [twitter](http://twitter.com/jbavari) or by [email](mailto:jbavari@gmail.com)
+
+
+### User Guide by Maker Su
+```
+>cd ~/client/RedisChat
+>npm install
+>bower install
+>ionic platform add ios
+>ionic platform add android
+>ionic build
+>ionic emulate ios
+>ionic run android
+```
