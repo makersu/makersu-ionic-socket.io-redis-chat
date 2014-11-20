@@ -10,7 +10,7 @@ var moment = require('moment');
 
 var connections = 0;
 
-var PORT = 8080;
+var PORT = 6378;
 var REDIS_PORT = 6379;
 var REDIS_HOST = 'localhost';
 
