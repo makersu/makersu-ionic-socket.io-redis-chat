@@ -103,6 +103,8 @@ Find me on [twitter](http://twitter.com/jbavari) or by [email](mailto:jbavari@gm
 
 ### User Guide by Maker Su
 ```
+>redis-sever
+>nodejs server.js
 >cd ~/client/RedisChat
 >npm install
 >bower install
